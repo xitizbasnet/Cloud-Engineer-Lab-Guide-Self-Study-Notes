@@ -1,4 +1,4 @@
-# LAB 06 – Azure Business Continuity & Disaster Recovery (BCDR)
+# Lab 06 – Azure Business Continuity & Disaster Recovery (BCDR)
 ## Azure Site Recovery (ASR) & Azure Backup
 
 > [!IMPORTANT]
