@@ -1,4 +1,4 @@
-# LAB 07 – Docker & Kubernetes on Azure & AWS
+# Lab 07 – Docker & Kubernetes on Azure & AWS
 
 > [!IMPORTANT]
 > This lab demonstrates how to build, run, and manage containerized applications using **Docker**, **Podman**, **Buildah**, and **LXC**. It also covers deploying workloads to **Azure Kubernetes Service (AKS)** and configuring **Container Network Interface (CNI)** and **IP Address Management (IPAM)** using **Calico**.
